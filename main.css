@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+   
+}
+header{
+    background-color:rgb(102, 95, 95);
+    height: 30%;
+    margin: 0px;
+    padding: 10px;
+    border-bottom: solid;
+    border-color:   rgb(63, 59, 59);
+    display: flex;
+
+}
+.label{
+    padding-left: 1cm;
+}
+.test{
+    font-size: larger;
+    font-style: oblique;
+    flex-grow:10;
+    height: 30%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
